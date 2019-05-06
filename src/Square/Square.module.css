@@ -8,6 +8,7 @@
     border: 3px solid orange;
     margin: 2px;
     box-sizing: border-box;
+    transition: all 0.3s ease;
 }
 .Square:hover{
     background: rgb(253, 51, 51);
