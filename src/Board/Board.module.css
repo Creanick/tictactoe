@@ -1,0 +1,17 @@
+.Board{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+.BoardRow{
+    display: flex;
+    justify-content: center;
+}
+.Status{
+    margin-bottom: 30px;
+    padding: 10px 15px;
+    border-radius: 4px;
+    text-align: center;
+    border: 1px solid orange;
+    color: red;
+}

@@ -1,0 +1,18 @@
+.Button{
+    border: none;
+    margin: 10px;
+    padding: 10px 12px;
+    border-radius: 4px;
+    background: orange;
+    color: white;
+    font-size: 14px;
+}
+.Button:hover{
+    cursor: pointer;
+}
+.Button:active{
+    background: rgb(255, 187, 60);
+}
+.Button.active{
+    background: red;
+}
